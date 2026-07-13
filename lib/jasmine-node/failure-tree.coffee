@@ -1,7 +1,7 @@
 path = require 'path'
 
 _ = require 'underscore'
-coffeestack = require 'coffeestack'
+coffeestack = require '@lumine-code/coffeestack'
 
 sourceMaps = {}
 
