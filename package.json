@@ -41,7 +41,9 @@
   "bin": "bin/jasmine-node",
   "main": "lib/jasmine-node",
   "scripts": {
-    "test": "node lib/jasmine-node/cli.js --coffee spec/CoffeeSpec.coffee spec/helper_spec.js spec/TimerSpec.js"
+    "test": "jasmine"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "jasmine": "^6.3.0"
+  }
 }

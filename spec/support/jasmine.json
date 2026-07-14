@@ -1,0 +1,14 @@
+{
+  "spec_dir": "spec",
+  "spec_files": [
+    "CoffeeSpec.js",
+    "helper_spec.js",
+    "TimerSpec.js"
+  ],
+  "helpers": [],
+  "requires": [],
+  "env": {
+    "stopSpecOnExpectationFailure": false,
+    "random": true
+  }
+}
