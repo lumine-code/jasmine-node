@@ -29,7 +29,7 @@
     "lib"
   ],
   "dependencies": {
-    "coffee-script": "npm:coffeescript@2.7.0",
+    "coffeescript": "2.7.0",
     "@lumine-code/coffeestack": "https://github.com/lumine-code/coffeestack.git#b5e51bce862c21a28fcb8f0f4fca7b8d4b57d885",
     "chokidar": "^4.0.3",
     "jasmine-reporters": "^2.5.2",
