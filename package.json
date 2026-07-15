@@ -30,7 +30,7 @@
   ],
   "dependencies": {
     "coffeescript": "2.7.0",
-    "@lumine-code/coffeestack": "https://github.com/lumine-code/coffeestack.git#b5e51bce862c21a28fcb8f0f4fca7b8d4b57d885",
+    "@lumine-code/coffeestack": "https://github.com/lumine-code/coffeestack.git#086f057ecc2d70fa411769a112157b735328d7c4",
     "jasmine-reporters": "^2.5.2",
     "requirejs": "^2.3.7",
     "underscore": "^1.13.8"
