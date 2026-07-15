@@ -31,12 +31,9 @@
   "dependencies": {
     "coffeescript": "2.7.0",
     "@lumine-code/coffeestack": "https://github.com/lumine-code/coffeestack.git#b5e51bce862c21a28fcb8f0f4fca7b8d4b57d885",
-    "chokidar": "^4.0.3",
     "jasmine-reporters": "^2.5.2",
-    "mkdirp": "^3.0.1",
     "requirejs": "^2.3.7",
-    "underscore": "^1.13.8",
-    "walkdir": "^0.4.1"
+    "underscore": "^1.13.8"
   },
   "bin": "bin/jasmine-node",
   "main": "lib/jasmine-node",
