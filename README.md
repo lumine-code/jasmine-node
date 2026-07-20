@@ -2,6 +2,9 @@
 
 Runs legacy Jasmine 1 suites on current Node.js releases for Lumine tooling.
 
+> [!WARNING]
+> **This package is deprecated.** [Lumine](https://github.com/lumine-code/lumine) no longer depends on it — the test harness unified on Jasmine 6 and modern Node.js, so this Jasmine 1 compatibility runner is unnecessary. This repository is archived and no longer maintained.
+
 ## Features
 
 - **Jasmine 1 compatibility**: preserves the test environment used by legacy editor and package specs.
