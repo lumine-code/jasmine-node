@@ -1,6 +1,6 @@
 {
   "name": "@lumine-code/jasmine-node",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "Runs legacy Jasmine 1 suites on current Node.js releases for Lumine tooling.",
   "contributors": [
     "Chris Moultrie <chris@moultrie.org>"
