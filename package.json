@@ -26,7 +26,8 @@
   },
   "files": [
     "bin",
-    "lib"
+    "lib",
+    "THIRD_PARTY_NOTICES"
   ],
   "dependencies": {
     "coffeescript": "2.7.0",
